@@ -7,3 +7,44 @@ p {
     text-align: center;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .content {
+    padding: 20px;
+    min-height: 30%;
+    margin: 0 auto -20px;
+  }
+  .footer,
+  .push {
+    height: 50px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    font: 16px Sans-Serif;
+  }
+  h1 {
+    margin: 0 0 20px 0;
+  }
+  p {
+    margin: 20px 0 0 0;
+  }
+  footer {
+    background: #42A5F5;
+    color: white;
+    line-height: 50px;
+    padding: 0 20px;
+  }
